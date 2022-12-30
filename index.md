@@ -1,6 +1,7 @@
 ---
 title: Deep Magic - PTBR
 layout: home
+nav_order: 1
 ---
 
 # Deep Magic - Classes
