@@ -9,7 +9,7 @@ title: Domínio do Gato
 
 Você incorpora a graça, a força e a resiliência dos felinos. Eventualmente, você ganha a habilidade de assumir a forma de um leão ou tigre.
 
-
+![Clérigo do domínio do gato](https://user-images.githubusercontent.com/5342579/210119638-3a9432b3-a4b0-41e4-801e-0e375b210283.png)
 
 ## Magias do Domínio do Gato
 
