@@ -16,8 +16,6 @@ O esforço afeta todas as coisas, por mais remotamente conectadas que possam est
 morte não deixa uma marca para trás. Enfrentar o destino, abraçar o wyrd e tudo o que ele traz, é ter o poder de abalar o mundo 
 e fazê-lo te notar.
 
-![videntes_de_wyrd](https://user-images.githubusercontent.com/5342579/210099218-b8880c6c-117f-4d9d-8d0d-912280ce8363.png)
-
 | Habilidade        | Nível | 
 |:-------------|:------------------|
 | Fanfarronice | 3º |
