@@ -1,5 +1,5 @@
 ---
-title: Verdefolha
+title: Folhaverde
 parent: Bardos
 nav_order: 2
 ---
