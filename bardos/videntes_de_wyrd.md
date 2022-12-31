@@ -7,8 +7,6 @@ nav_order: 1
 
 # COLÉGIO DOS VIDENTES DO WYRD
 
-![videntes_de_wyrd](https://user-images.githubusercontent.com/5342579/210099218-b8880c6c-117f-4d9d-8d0d-912280ce8363.png)
-
 Os bardos do Colégio dos Videntes do Wyrd aderem ao wyrd, uma filosofia que gira em torno do fenômeno de mesmo nome. O wyrd é 
 aquilo que será, inexoravelmente ligado a conceitos como destino e sorte. Embora alguns possam considerar a ideia de um destino 
 fixo fatalista, os bardos deste colégio são inspirados por este ponto de vista. Pode-se não escolher a maneira de morrer, 
@@ -17,6 +15,8 @@ Quer viva ou morra, seus esforços abalam a teia em sua totalidade, e ela pode s
 O esforço afeta todas as coisas, por mais remotamente conectadas que possam estar, ao passo que o inseto que apenas aceita sua 
 morte não deixa uma marca para trás. Enfrentar o destino, abraçar o wyrd e tudo o que ele traz, é ter o poder de abalar o mundo 
 e fazê-lo te notar.
+
+![videntes_de_wyrd](https://user-images.githubusercontent.com/5342579/210099218-b8880c6c-117f-4d9d-8d0d-912280ce8363.png)
 
 | Habilidade        | Nível | 
 |:-------------|:------------------|
