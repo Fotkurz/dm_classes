@@ -7,9 +7,9 @@ title: Domínio da Cerveja
 
 # DOMÍNIO DA CERVEJA
 
-![Clériga do domínio da Cerveja](https://user-images.githubusercontent.com/5342579/210101143-1a08c8be-c6bb-49e2-817e-e15476d7474b.png)
-
 A bebida fermentada da fortaleza, coragem e companheirismo é o seu néctar, e você compartilha suas bênçãos com aqueles que precisam.
+
+![Clériga do domínio da Cerveja](https://user-images.githubusercontent.com/5342579/210101143-1a08c8be-c6bb-49e2-817e-e15476d7474b.png)
 
 ## Magias do domínio da cerveja
 
