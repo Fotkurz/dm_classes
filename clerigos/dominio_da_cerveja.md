@@ -9,6 +9,8 @@ title: Domínio da Cerveja
 
 A bebida fermentada da fortaleza, coragem e companheirismo é o seu néctar, e você compartilha suas bênçãos com aqueles que precisam.
 
+![Clériga do Domínio da Cerveja](https://user-images.githubusercontent.com/5342579/210120985-1a085a45-f983-42bd-ac62-510885337dbd.png)
+
 ## Magias do domínio da cerveja
 
 | Nível de Clérigo | Mágias |
