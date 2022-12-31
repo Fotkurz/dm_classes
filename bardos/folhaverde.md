@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Folhaverde
 parent: Bardos
 nav_order: 2
