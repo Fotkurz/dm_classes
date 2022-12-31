@@ -21,6 +21,8 @@ A bebida fermentada da fortaleza, coragem e companheirismo é o seu néctar, e v
 | 7º | Confusão, Esfera Resiliente de Otiluke |
 | 9º | Sonho, Modificar Memória |
 
+\*Magias em negrito são do Deep Magic.
+
 ## Discípulo do Chope
 
 Quando você escolhe este domínio no 1º nível, você aprende o truque Raio Etílico. Você também ganha proficiência em Intuição ou Medicina (a sua escolha) e ganha proficiência com suprimentos de cervejeiro. Seu bônus de proficiência é dobrado para qualquer teste de habilidade que você fizer que use esses suprimentos.
